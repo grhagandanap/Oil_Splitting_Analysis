@@ -1,7 +1,7 @@
 # Oil_Splitting_Analysis
-This is an analytical oil splitting machine that combine between Python and Microsoft Excel to split produced oil from multilayer reservoir
+This is an analytical oil splitting machine that combine between Python and Microsoft Excel to split produced oil from multilayer reservoir.
 
-The case of this splitting take place at "X" Field which has around 1900 wells, with about 600,000 production data and 200,000 completion event data 
+The case of this splitting take place at "X" Field which has around 1900 wells, with about 600,000 production data and 200,000 completion event data.
 
 Here it is the result of splitting process!
 
