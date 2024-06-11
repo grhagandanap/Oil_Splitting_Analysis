@@ -18,3 +18,5 @@ Then we have to mark by the the thickness of perforated zone:
 After we have the mark then we continue to split the oil and water prdction like this:
 
 ![](https://github.com/grhagandanap/Oil_Splitting_Analysis/blob/main/Oil%20Splitting.gif)
+
+But in the latest version of the oil splitting we can do this only using dataframe and no need Ms. Excel so the running is much more faster than the previous one
